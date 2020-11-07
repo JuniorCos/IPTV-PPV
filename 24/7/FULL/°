@@ -1,0 +1,1792 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="eldukedelasapuesta IPTV", Gerado por eldukedelasapuesta IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 | ALF
+http://appstv.us:25461/lozanos/tvmulti/1055
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 | LOS SIMPSONS
+http://appstv.us:25461/lozanos/tvmulti/1072
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 EBS Kids EN
+http://appstv.us:25461/lozanos/tvmulti/1108
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 ENGLISH |  Bonanza
+http://appstv.us:25461/lozanos/tvmulti/1307
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 ENGLISH | Sherlock Holmes
+http://appstv.us:25461/lozanos/tvmulti/1309
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 ENGLISH | The Greatest American Hero
+http://appstv.us:25461/lozanos/tvmulti/1310
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 ENGLISH | The Lone Ranger
+http://appstv.us:25461/lozanos/tvmulti/1311
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 Tom & Jerry TV EN
+http://appstv.us:25461/lozanos/tvmulti/1110
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARGENTINA | FOX SPORTS PREMIUN
+http://appstv.us:25461/lozanos/tvmulti/552
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARGENTINA | TELEFE
+http://appstv.us:25461/lozanos/tvmulti/1133
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARGENTINA | TNT SPORTS
+http://appstv.us:25461/lozanos/tvmulti/554
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BOLIVIA | ATB
+http://appstv.us:25461/lozanos/tvmulti/1018
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BOLIVIA | BOLIVIA TV
+http://appstv.us:25461/lozanos/tvmulti/1020
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BOLIVIA | BOLIVIAVISION
+http://appstv.us:25461/lozanos/tvmulti/1361
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BOLIVIA | RED UNO SANTA CRUZ
+http://appstv.us:25461/lozanos/tvmulti/1029
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BOLIVIA | RTP
+http://appstv.us:25461/lozanos/tvmulti/1028
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BOLIVIA | TIGO SPORTS 2
+http://appstv.us:25461/lozanos/tvmulti/1036
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BRASIL | CARTOON NETWORK
+http://appstv.us:25461/lozanos/tvmulti/737
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BRASIL | PREMIER 5
+http://appstv.us:25461/lozanos/tvmulti/727
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BRASIL | SPORT TV 2
+http://appstv.us:25461/lozanos/tvmulti/722
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BRASIL | SYFY
+http://appstv.us:25461/lozanos/tvmulti/720
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANADA | Sportsnet 360
+http://appstv.us:25461/lozanos/tvmulti/7
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANADA | Sportsnet EAST
+http://appstv.us:25461/lozanos/tvmulti/8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANADA | Sportsnet One
+http://appstv.us:25461/lozanos/tvmulti/9
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANADA | Sportsnet Ontario
+http://appstv.us:25461/lozanos/tvmulti/11
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANADA | Sportsnet World
+http://appstv.us:25461/lozanos/tvmulti/10
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANADA | TSN 2
+http://appstv.us:25461/lozanos/tvmulti/14
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANADA | TSN 3
+http://appstv.us:25461/lozanos/tvmulti/15
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANADA | TSN 5
+http://appstv.us:25461/lozanos/tvmulti/17
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE | 24HORAS
+http://appstv.us:25461/lozanos/tvmulti/536
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE | CDF PREMIUN
+http://appstv.us:25461/lozanos/tvmulti/540
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE | CDO BASICO
+http://appstv.us:25461/lozanos/tvmulti/541
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE | CDO PREMIUN
+http://appstv.us:25461/lozanos/tvmulti/542
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE | CHILEVISION
+http://appstv.us:25461/lozanos/tvmulti/543
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE | ETC TV
+http://appstv.us:25461/lozanos/tvmulti/544
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE | FOX SPORTS
+http://appstv.us:25461/lozanos/tvmulti/545
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE | LA RED
+http://appstv.us:25461/lozanos/tvmulti/546
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE | MEGA
+http://appstv.us:25461/lozanos/tvmulti/547
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE | TELETRAK
+http://appstv.us:25461/lozanos/tvmulti/549
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE | TVN
+http://appstv.us:25461/lozanos/tvmulti/550
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA | Caracol
+http://appstv.us:25461/lozanos/tvmulti/62
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA | CARACOL INTERNACIONAL
+http://appstv.us:25461/lozanos/tvmulti/523
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA | CITY TV
+http://appstv.us:25461/lozanos/tvmulti/524
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA | NTN24
+http://appstv.us:25461/lozanos/tvmulti/517
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA | RCN
+http://appstv.us:25461/lozanos/tvmulti/140
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA | TELEANTIOQUIA
+http://appstv.us:25461/lozanos/tvmulti/528
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA | TELECARIBE
+http://appstv.us:25461/lozanos/tvmulti/530
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA | TELEPACIFICO
+http://appstv.us:25461/lozanos/tvmulti/532
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COSTA RICA | CANAL 14 TV SUR
+http://appstv.us:25461/lozanos/tvmulti/788
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COSTA RICA | FUTV
+http://appstv.us:25461/lozanos/tvmulti/1041
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COSTA RICA | REPRETEL 6
+http://appstv.us:25461/lozanos/tvmulti/792
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COSTA RICA | TELETICA 7
+http://appstv.us:25461/lozanos/tvmulti/793
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COSTA RICA | TELEUNO
+http://appstv.us:25461/lozanos/tvmulti/794
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COSTA RICA | TIGO SPORTS
+http://appstv.us:25461/lozanos/tvmulti/790
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CUBA | AMERICA TV
+http://appstv.us:25461/lozanos/tvmulti/1323
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CUBA | CUBAPLAY
+http://appstv.us:25461/lozanos/tvmulti/1326
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CUBA | CUBAVISION
+http://appstv.us:25461/lozanos/tvmulti/1321
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CUBA | CUBAVISION INTERNACIONAL
+http://appstv.us:25461/lozanos/tvmulti/1322
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CUBA | MULTIVISION
+http://appstv.us:25461/lozanos/tvmulti/1325
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ECUADOR | ECUADOR TV
+http://appstv.us:25461/lozanos/tvmulti/508
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ECUADOR | ECUADOR TV INTERNACIONAL
+http://appstv.us:25461/lozanos/tvmulti/509
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ECUADOR | ECUAVISA
+http://appstv.us:25461/lozanos/tvmulti/510
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ECUADOR | ECUAVISA INTERNACIONAL
+http://appstv.us:25461/lozanos/tvmulti/511
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ECUADOR | GAMAVISION
+http://appstv.us:25461/lozanos/tvmulti/512
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ECUADOR | RTS
+http://appstv.us:25461/lozanos/tvmulti/513
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ECUADOR | TC TELEVISION
+http://appstv.us:25461/lozanos/tvmulti/514
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ECUADOR | TELEAMAZONAS
+http://appstv.us:25461/lozanos/tvmulti/515
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EL SALVADOR | CANAL 12
+http://appstv.us:25461/lozanos/tvmulti/775
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EL SALVADOR | MEGAVISION CANAL 19
+http://appstv.us:25461/lozanos/tvmulti/776
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EL SALVADOR | MEGAVISION CANAL 21
+http://appstv.us:25461/lozanos/tvmulti/777
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EL SALVADOR | MEGAVISION TRV
+http://appstv.us:25461/lozanos/tvmulti/778
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EL SALVADOR | ORBITA FM
+http://appstv.us:25461/lozanos/tvmulti/1298
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EL SALVADOR | TVO CANAL 23
+http://appstv.us:25461/lozanos/tvmulti/1296
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPAÃ‘A | CANAL PANDA
+http://appstv.us:25461/lozanos/tvmulti/1043
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPAÃ‘A | TOROS TV
+http://appstv.us:25461/lozanos/tvmulti/1044
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GALAVISION LA(W)
+http://appstv.us:25461/lozanos/tvmulti/1370
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GALAVISION MIAMI(W)
+http://appstv.us:25461/lozanos/tvmulti/1372
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GALAVISION NY(W)
+http://appstv.us:25461/lozanos/tvmulti/1373
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GALAVISION PHILADELPHIA(W)
+http://appstv.us:25461/lozanos/tvmulti/1374
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GALAVISION SACRAMENTO(W)
+http://appstv.us:25461/lozanos/tvmulti/1377
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GUATEMALA | CANAL 3
+http://appstv.us:25461/lozanos/tvmulti/823
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GUATEMALA | CANAL ANTIGUA
+http://appstv.us:25461/lozanos/tvmulti/825
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GUATEMALA | RETRO TV
+http://appstv.us:25461/lozanos/tvmulti/828
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GUATEMALA | TN 23
+http://appstv.us:25461/lozanos/tvmulti/829
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | AZTECA HONDURAS
+http://appstv.us:25461/lozanos/tvmulti/799
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | CAMPUS TV
+http://appstv.us:25461/lozanos/tvmulti/1345
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | CANAL 11 HD
+http://appstv.us:25461/lozanos/tvmulti/1347
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | CANAL 5
+http://appstv.us:25461/lozanos/tvmulti/1348
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | CANAL 6
+http://appstv.us:25461/lozanos/tvmulti/805
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | CANAL 6
+http://appstv.us:25461/lozanos/tvmulti/1349
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | HCH HD
+http://appstv.us:25461/lozanos/tvmulti/1350
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | MAYA TV
+http://appstv.us:25461/lozanos/tvmulti/1351
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | MEGATV HD
+http://appstv.us:25461/lozanos/tvmulti/1352
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | SITV
+http://appstv.us:25461/lozanos/tvmulti/1353
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | TELECADENA HD
+http://appstv.us:25461/lozanos/tvmulti/1354
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | TELEPPROGRESO
+http://appstv.us:25461/lozanos/tvmulti/1356
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | TNH HD
+http://appstv.us:25461/lozanos/tvmulti/1357
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | TSI
+http://appstv.us:25461/lozanos/tvmulti/1358
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | UNE TV
+http://appstv.us:25461/lozanos/tvmulti/1359
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HONDURAS | VICA TV
+http://appstv.us:25461/lozanos/tvmulti/1360
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA : Cinema 01 PPV
+http://appstv.us:25461/lozanos/tvmulti/1329
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA : Cinema 03 PPV
+http://appstv.us:25461/lozanos/tvmulti/1331
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA : Cinema 04 PPV
+http://appstv.us:25461/lozanos/tvmulti/1332
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA : Cinema 05 PPV
+http://appstv.us:25461/lozanos/tvmulti/1333
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA: Cinema 06 PPV
+http://appstv.us:25461/lozanos/tvmulti/1334
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA: Cinema 07 PPV
+http://appstv.us:25461/lozanos/tvmulti/1335
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA: Cinema 08 PPV
+http://appstv.us:25461/lozanos/tvmulti/1336
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA: Cinema 09 PPV
+http://appstv.us:25461/lozanos/tvmulti/1337
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA: Cinema 10 PPV
+http://appstv.us:25461/lozanos/tvmulti/1338
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA: Cinema 11 PPV
+http://appstv.us:25461/lozanos/tvmulti/1339
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA: Cinema 12 PPV
+http://appstv.us:25461/lozanos/tvmulti/1340
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA: Cinema 13 PPV
+http://appstv.us:25461/lozanos/tvmulti/1341
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA: Cinema 14 PPV
+http://appstv.us:25461/lozanos/tvmulti/1342
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA: Cinema 15 PPV
+http://appstv.us:25461/lozanos/tvmulti/1343
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | A&E
+http://appstv.us:25461/lozanos/tvmulti/38
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | A3S
+http://appstv.us:25461/lozanos/tvmulti/41
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | ADN40
+http://appstv.us:25461/lozanos/tvmulti/42
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Affizionados
+http://appstv.us:25461/lozanos/tvmulti/43
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | AMC
+http://appstv.us:25461/lozanos/tvmulti/44
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Animal Planet
+http://appstv.us:25461/lozanos/tvmulti/45
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | AXN
+http://appstv.us:25461/lozanos/tvmulti/47
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | AXN White
+http://appstv.us:25461/lozanos/tvmulti/48
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | AyM Sports
+http://appstv.us:25461/lozanos/tvmulti/49
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | AZ Cinema
+http://appstv.us:25461/lozanos/tvmulti/50
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | AZ Corazon
+http://appstv.us:25461/lozanos/tvmulti/51
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | AZ Mundo
+http://appstv.us:25461/lozanos/tvmulti/52
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Azteca 1
+http://appstv.us:25461/lozanos/tvmulti/53
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Azteca 7
+http://appstv.us:25461/lozanos/tvmulti/54
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | BABY FIRTS
+http://appstv.us:25461/lozanos/tvmulti/899
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | beIN Sports
+http://appstv.us:25461/lozanos/tvmulti/56
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | beIN Sports La Liga
+http://appstv.us:25461/lozanos/tvmulti/57
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Boomerang
+http://appstv.us:25461/lozanos/tvmulti/58
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Canal 11
+http://appstv.us:25461/lozanos/tvmulti/59
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Canal 5
+http://appstv.us:25461/lozanos/tvmulti/60
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Canal De Las Estrellas
+http://appstv.us:25461/lozanos/tvmulti/61
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Cartoon Network
+http://appstv.us:25461/lozanos/tvmulti/63
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | CGTN ESPANOL
+http://appstv.us:25461/lozanos/tvmulti/961
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | CineCanal
+http://appstv.us:25461/lozanos/tvmulti/64
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | CineLatino
+http://appstv.us:25461/lozanos/tvmulti/65
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Cinemax
+http://appstv.us:25461/lozanos/tvmulti/66
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | CNN en Espanol
+http://appstv.us:25461/lozanos/tvmulti/67
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Comedy Central
+http://appstv.us:25461/lozanos/tvmulti/68
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | De Pelicula
+http://appstv.us:25461/lozanos/tvmulti/69
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | DIRECTV SPORTS
+http://appstv.us:25461/lozanos/tvmulti/1047
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | DIRECTV SPORTS 2
+http://appstv.us:25461/lozanos/tvmulti/1048
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Discovery Channel
+http://appstv.us:25461/lozanos/tvmulti/70
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Discovery Civilization
+http://appstv.us:25461/lozanos/tvmulti/71
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Discovery en Espanol
+http://appstv.us:25461/lozanos/tvmulti/72
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Discovery Familia
+http://appstv.us:25461/lozanos/tvmulti/73
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Discovery H&H
+http://appstv.us:25461/lozanos/tvmulti/74
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Discovery ID
+http://appstv.us:25461/lozanos/tvmulti/75
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Discovery Kids
+http://appstv.us:25461/lozanos/tvmulti/76
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Discovery Science
+http://appstv.us:25461/lozanos/tvmulti/77
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Discovery Theater
+http://appstv.us:25461/lozanos/tvmulti/78
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Discovery TLC
+http://appstv.us:25461/lozanos/tvmulti/79
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Discovery Turbo
+http://appstv.us:25461/lozanos/tvmulti/80
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Discovery World
+http://appstv.us:25461/lozanos/tvmulti/81
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Disney Channel
+http://appstv.us:25461/lozanos/tvmulti/82
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Disney Jr
+http://appstv.us:25461/lozanos/tvmulti/83
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Disney XD
+http://appstv.us:25461/lozanos/tvmulti/84
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Distrito Comedia
+http://appstv.us:25461/lozanos/tvmulti/85
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | E!
+http://appstv.us:25461/lozanos/tvmulti/86
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | El Garage
+http://appstv.us:25461/lozanos/tvmulti/87
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | El Gourmet
+http://appstv.us:25461/lozanos/tvmulti/88
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | ESPN
+http://appstv.us:25461/lozanos/tvmulti/89
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | ESPN 2
+http://appstv.us:25461/lozanos/tvmulti/90
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | ESPN 3
+http://appstv.us:25461/lozanos/tvmulti/91
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | ESPN Deportes
+http://appstv.us:25461/lozanos/tvmulti/92
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | ESPN Plus
+http://appstv.us:25461/lozanos/tvmulti/93
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Estrella TV
+http://appstv.us:25461/lozanos/tvmulti/94
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | FILMS ART
+http://appstv.us:25461/lozanos/tvmulti/1152
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Food Network
+http://appstv.us:25461/lozanos/tvmulti/95
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Foro TV
+http://appstv.us:25461/lozanos/tvmulti/96
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | FOX
+http://appstv.us:25461/lozanos/tvmulti/97
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | FOX Life
+http://appstv.us:25461/lozanos/tvmulti/102
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | FOX PREMIUM Action
+http://appstv.us:25461/lozanos/tvmulti/98
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | FOX PREMIUM Cinema
+http://appstv.us:25461/lozanos/tvmulti/99
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | FOX PREMIUM Classic
+http://appstv.us:25461/lozanos/tvmulti/100
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | FOX PREMIUM Family
+http://appstv.us:25461/lozanos/tvmulti/101
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | FOX PREMIUM Movies
+http://appstv.us:25461/lozanos/tvmulti/103
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | FOX PREMIUM Series
+http://appstv.us:25461/lozanos/tvmulti/104
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | FOX PREMIUN COMEDY
+http://appstv.us:25461/lozanos/tvmulti/754
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | FOX Sports
+http://appstv.us:25461/lozanos/tvmulti/105
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | FOX Sports 2
+http://appstv.us:25461/lozanos/tvmulti/106
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | FOX Sports 3
+http://appstv.us:25461/lozanos/tvmulti/107
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | FX
+http://appstv.us:25461/lozanos/tvmulti/111
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | FXM
+http://appstv.us:25461/lozanos/tvmulti/112
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Gala TV
+http://appstv.us:25461/lozanos/tvmulti/113
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Glitz
+http://appstv.us:25461/lozanos/tvmulti/114
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Gol TV
+http://appstv.us:25461/lozanos/tvmulti/115
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | GOLDEN
+http://appstv.us:25461/lozanos/tvmulti/757
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Golden EDGE
+http://appstv.us:25461/lozanos/tvmulti/116
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Golden Plus
+http://appstv.us:25461/lozanos/tvmulti/117
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | GOLDEN PREMIER
+http://appstv.us:25461/lozanos/tvmulti/756
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Golf Channel
+http://appstv.us:25461/lozanos/tvmulti/39
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | HBO
+http://appstv.us:25461/lozanos/tvmulti/118
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | HBO 2
+http://appstv.us:25461/lozanos/tvmulti/119
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | HBO Family
+http://appstv.us:25461/lozanos/tvmulti/120
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | HBO MUNDI
+http://appstv.us:25461/lozanos/tvmulti/1112
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | HBO Plus
+http://appstv.us:25461/lozanos/tvmulti/121
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | HBO POP
+http://appstv.us:25461/lozanos/tvmulti/129
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | HBO SIGNATURE
+http://appstv.us:25461/lozanos/tvmulti/755
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | HBO XTREME
+http://appstv.us:25461/lozanos/tvmulti/128
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | History 2
+http://appstv.us:25461/lozanos/tvmulti/122
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | History Channel
+http://appstv.us:25461/lozanos/tvmulti/123
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Hola TV
+http://appstv.us:25461/lozanos/tvmulti/124
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Imagen
+http://appstv.us:25461/lozanos/tvmulti/125
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Lifetime
+http://appstv.us:25461/lozanos/tvmulti/126
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | MasChic
+http://appstv.us:25461/lozanos/tvmulti/127
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | MELODY CHANNEL
+http://appstv.us:25461/lozanos/tvmulti/960
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Mexiquense
+http://appstv.us:25461/lozanos/tvmulti/130
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | MTV
+http://appstv.us:25461/lozanos/tvmulti/752
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | MTV LIVE
+http://appstv.us:25461/lozanos/tvmulti/753
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Multimedios
+http://appstv.us:25461/lozanos/tvmulti/131
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Nat Geo Kids
+http://appstv.us:25461/lozanos/tvmulti/132
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Nat Geo Mundo
+http://appstv.us:25461/lozanos/tvmulti/133
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Nat Geo Wild
+http://appstv.us:25461/lozanos/tvmulti/134
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | National Geographic
+http://appstv.us:25461/lozanos/tvmulti/135
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Nick
+http://appstv.us:25461/lozanos/tvmulti/136
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | NICK 2
+http://appstv.us:25461/lozanos/tvmulti/585
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Nick Jr
+http://appstv.us:25461/lozanos/tvmulti/137
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | NICKELODEON
+http://appstv.us:25461/lozanos/tvmulti/765
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | Paramount
+http://appstv.us:25461/lozanos/tvmulti/1141
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Pasiones
+http://appstv.us:25461/lozanos/tvmulti/139
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Showtime
+http://appstv.us:25461/lozanos/tvmulti/142
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Sony
+http://appstv.us:25461/lozanos/tvmulti/143
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Space
+http://appstv.us:25461/lozanos/tvmulti/144
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Starz
+http://appstv.us:25461/lozanos/tvmulti/145
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Studio Universal
+http://appstv.us:25461/lozanos/tvmulti/147
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Sundance
+http://appstv.us:25461/lozanos/tvmulti/148
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | SyFy
+http://appstv.us:25461/lozanos/tvmulti/149
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | TBS
+http://appstv.us:25461/lozanos/tvmulti/150
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | TCM
+http://appstv.us:25461/lozanos/tvmulti/151
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Telemundo Int
+http://appstv.us:25461/lozanos/tvmulti/154
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | TLnovelas
+http://appstv.us:25461/lozanos/tvmulti/155
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | TNT
+http://appstv.us:25461/lozanos/tvmulti/156
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | TNT Series
+http://appstv.us:25461/lozanos/tvmulti/157
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Tooncast
+http://appstv.us:25461/lozanos/tvmulti/158
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | TruTV
+http://appstv.us:25461/lozanos/tvmulti/159
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | TUDN
+http://appstv.us:25461/lozanos/tvmulti/160
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | TVC
+http://appstv.us:25461/lozanos/tvmulti/161
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | TVC Deportes
+http://appstv.us:25461/lozanos/tvmulti/162
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | TyC Sports
+http://appstv.us:25461/lozanos/tvmulti/163
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Unicable
+http://appstv.us:25461/lozanos/tvmulti/173
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | UniMas
+http://appstv.us:25461/lozanos/tvmulti/174
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Universal Channel
+http://appstv.us:25461/lozanos/tvmulti/175
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LATINO | UNIVISION TLENOVELAS
+http://appstv.us:25461/lozanos/tvmulti/694
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | VH1
+http://appstv.us:25461/lozanos/tvmulti/176
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | VH1 Classic
+http://appstv.us:25461/lozanos/tvmulti/177
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Warner
+http://appstv.us:25461/lozanos/tvmulti/178
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Win Sports
+http://appstv.us:25461/lozanos/tvmulti/179
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MEXICO | CANAL 10 CANCUN
+http://appstv.us:25461/lozanos/tvmulti/972
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MEXICO | CANAL 4 SALTILLO
+http://appstv.us:25461/lozanos/tvmulti/974
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MEXICO | EXTREMA X
+http://appstv.us:25461/lozanos/tvmulti/962
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MEXICO | Film And Arts
+http://appstv.us:25461/lozanos/tvmulti/896
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MEXICO | INGENIO TV
+http://appstv.us:25461/lozanos/tvmulti/1116
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MEXICO | MILENIO TV
+http://appstv.us:25461/lozanos/tvmulti/556
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MEXICO | PRESUMIENDO MEXICO
+http://appstv.us:25461/lozanos/tvmulti/977
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MEXICO | RCG SALTILLO
+http://appstv.us:25461/lozanos/tvmulti/956
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| 90s
+http://appstv.us:25461/lozanos/tvmulti/557
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Alternative
+http://appstv.us:25461/lozanos/tvmulti/558
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Brits   Hits
+http://appstv.us:25461/lozanos/tvmulti/559
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Dance/EDM
+http://appstv.us:25461/lozanos/tvmulti/560
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Hit List
+http://appstv.us:25461/lozanos/tvmulti/562
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Indie
+http://appstv.us:25461/lozanos/tvmulti/563
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Metal
+http://appstv.us:25461/lozanos/tvmulti/565
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Mexicana
+http://appstv.us:25461/lozanos/tvmulti/566
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Musica Urbana
+http://appstv.us:25461/lozanos/tvmulti/567
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Pop & Country
+http://appstv.us:25461/lozanos/tvmulti/568
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Pop Hits
+http://appstv.us:25461/lozanos/tvmulti/569
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Pop Latino
+http://appstv.us:25461/lozanos/tvmulti/570
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Rap
+http://appstv.us:25461/lozanos/tvmulti/572
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Rock
+http://appstv.us:25461/lozanos/tvmulti/574
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Teen Beats
+http://appstv.us:25461/lozanos/tvmulti/575
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Throwback Jamz
+http://appstv.us:25461/lozanos/tvmulti/576
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Today's Country
+http://appstv.us:25461/lozanos/tvmulti/577
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Toddler Tunes
+http://appstv.us:25461/lozanos/tvmulti/578
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Music Choice| Tropicales
+http://appstv.us:25461/lozanos/tvmulti/579
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PANAMA | TELEMETRO
+http://appstv.us:25461/lozanos/tvmulti/838
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERO | TV PERU NOTICIAS
+http://appstv.us:25461/lozanos/tvmulti/469
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERU | ATV
+http://appstv.us:25461/lozanos/tvmulti/460
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERU | BHTV
+http://appstv.us:25461/lozanos/tvmulti/979
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERU | CANAL IPE
+http://appstv.us:25461/lozanos/tvmulti/470
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERU | CANAL N
+http://appstv.us:25461/lozanos/tvmulti/1117
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERU | CULTURA 24
+http://appstv.us:25461/lozanos/tvmulti/982
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERU | GOL PERU
+http://appstv.us:25461/lozanos/tvmulti/463
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERU | LATINA
+http://appstv.us:25461/lozanos/tvmulti/461
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERU | MOVISTAR DEPORTES
+http://appstv.us:25461/lozanos/tvmulti/464
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERU | RPP
+http://appstv.us:25461/lozanos/tvmulti/1196
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERU | TV PERU
+http://appstv.us:25461/lozanos/tvmulti/468
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PUERTO RICO | MEGA TV
+http://appstv.us:25461/lozanos/tvmulti/180
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PUERTO RICO | Punto 2
+http://appstv.us:25461/lozanos/tvmulti/181
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PUERTO RICO | TELEMUNDO
+http://appstv.us:25461/lozanos/tvmulti/769
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PUERTO RICO | Univision
+http://appstv.us:25461/lozanos/tvmulti/182
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PUERTO RICO | WAPA
+http://appstv.us:25461/lozanos/tvmulti/183
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PUERTO RICO | WAPA 2
+http://appstv.us:25461/lozanos/tvmulti/184
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PUERTO RICO | WIPR
+http://appstv.us:25461/lozanos/tvmulti/185
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIOSO | 3ABN Latino
+http://appstv.us:25461/lozanos/tvmulti/942
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIOSO | ALIENTO VISION
+http://appstv.us:25461/lozanos/tvmulti/941
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIOSO | CANAL DIOCESANO
+http://appstv.us:25461/lozanos/tvmulti/949
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIOSO | CBN ES
+http://appstv.us:25461/lozanos/tvmulti/939
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIOSO | ESNE TV
+http://appstv.us:25461/lozanos/tvmulti/948
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIOSO | ESPERANZA TV
+http://appstv.us:25461/lozanos/tvmulti/936
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIOSO | EVENEZER TV
+http://appstv.us:25461/lozanos/tvmulti/937
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIOSO | JRES TV
+http://appstv.us:25461/lozanos/tvmulti/946
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIOSO | LA VOZ DE MARIA
+http://appstv.us:25461/lozanos/tvmulti/945
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIOSO | MONTE MARIA
+http://appstv.us:25461/lozanos/tvmulti/944
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Comedy
+http://appstv.us:25461/lozanos/tvmulti/478
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UK | BoxNation
+http://appstv.us:25461/lozanos/tvmulti/186
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UK | Sky Cinema Action
+http://appstv.us:25461/lozanos/tvmulti/477
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UK | Sky Cinema Drama
+http://appstv.us:25461/lozanos/tvmulti/480
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UK | SKY CINEMA GREATS
+http://appstv.us:25461/lozanos/tvmulti/482
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UK | Sky Cinema Premier
+http://appstv.us:25461/lozanos/tvmulti/484
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UK | SKY CINEMA SELET
+http://appstv.us:25461/lozanos/tvmulti/762
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UK | Sky Sports Action
+http://appstv.us:25461/lozanos/tvmulti/187
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UK | SKY SPORTS CRICKET
+http://appstv.us:25461/lozanos/tvmulti/476
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UK | Sky Sports F1
+http://appstv.us:25461/lozanos/tvmulti/188
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UK | SKY SPORTS FOOTBAL
+http://appstv.us:25461/lozanos/tvmulti/474
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UK | Sky Sports Golf
+http://appstv.us:25461/lozanos/tvmulti/189
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UK | Sky Sports Main Event
+http://appstv.us:25461/lozanos/tvmulti/190
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UK | Sky Sports MIX
+http://appstv.us:25461/lozanos/tvmulti/191
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UK | Sky Sports Premier League
+http://appstv.us:25461/lozanos/tvmulti/192
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", URUGUAY | VTV
+http://appstv.us:25461/lozanos/tvmulti/1313
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA  | ABC
+http://appstv.us:25461/lozanos/tvmulti/193
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA |  Outside TV
+http://appstv.us:25461/lozanos/tvmulti/194
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | A&E
+http://appstv.us:25461/lozanos/tvmulti/195
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | ABC 10 Miami
+http://appstv.us:25461/lozanos/tvmulti/196
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | ABC 13 Houston
+http://appstv.us:25461/lozanos/tvmulti/197
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | ABC 28 Tampa Bay
+http://appstv.us:25461/lozanos/tvmulti/199
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | ABC 7 Chicago
+http://appstv.us:25461/lozanos/tvmulti/200
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | ABC 7 Denver
+http://appstv.us:25461/lozanos/tvmulti/201
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | ABC 7 Los Angeles
+http://appstv.us:25461/lozanos/tvmulti/202
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | ABC 7 New York
+http://appstv.us:25461/lozanos/tvmulti/203
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | ABC 8 Dallas
+http://appstv.us:25461/lozanos/tvmulti/204
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | ABC 9 Orlando
+http://appstv.us:25461/lozanos/tvmulti/205
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | ABC News
+http://appstv.us:25461/lozanos/tvmulti/206
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | ACC Network
+http://appstv.us:25461/lozanos/tvmulti/207
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | AMC
+http://appstv.us:25461/lozanos/tvmulti/208
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | American Heroes Channel
+http://appstv.us:25461/lozanos/tvmulti/209
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Animal Planet
+http://appstv.us:25461/lozanos/tvmulti/210
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Atlanta Channel
+http://appstv.us:25461/lozanos/tvmulti/914
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | BBC America
+http://appstv.us:25461/lozanos/tvmulti/211
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | beIN Sports
+http://appstv.us:25461/lozanos/tvmulti/212
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | BET
+http://appstv.us:25461/lozanos/tvmulti/213
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | BET Her
+http://appstv.us:25461/lozanos/tvmulti/214
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Big Ten Network
+http://appstv.us:25461/lozanos/tvmulti/215
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | BLOOMBERG
+http://appstv.us:25461/lozanos/tvmulti/404
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Boomerang
+http://appstv.us:25461/lozanos/tvmulti/216
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Bravo
+http://appstv.us:25461/lozanos/tvmulti/217
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | BTN
+http://appstv.us:25461/lozanos/tvmulti/1314
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Cartoon Network
+http://appstv.us:25461/lozanos/tvmulti/218
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CBS
+http://appstv.us:25461/lozanos/tvmulti/219
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CBS 10 Tampa Bay
+http://appstv.us:25461/lozanos/tvmulti/220
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CBS 11 Dallas
+http://appstv.us:25461/lozanos/tvmulti/221
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CBS 11 Houston
+http://appstv.us:25461/lozanos/tvmulti/222
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CBS 2 Chicago
+http://appstv.us:25461/lozanos/tvmulti/223
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CBS 2 Los Angeles
+http://appstv.us:25461/lozanos/tvmulti/224
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CBS 2 New York
+http://appstv.us:25461/lozanos/tvmulti/225
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CBS 3 Philadelphia
+http://appstv.us:25461/lozanos/tvmulti/226
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CBS 4 Denver
+http://appstv.us:25461/lozanos/tvmulti/227
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CBS 4 Miami
+http://appstv.us:25461/lozanos/tvmulti/228
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CBS 4 Orlando
+http://appstv.us:25461/lozanos/tvmulti/229
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CBS 46 Atlanta
+http://appstv.us:25461/lozanos/tvmulti/230
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CBS SPORTS NETWORK
+http://appstv.us:25461/lozanos/tvmulti/1279
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CBSN
+http://appstv.us:25461/lozanos/tvmulti/231
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Cinemax East
+http://appstv.us:25461/lozanos/tvmulti/233
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CMT
+http://appstv.us:25461/lozanos/tvmulti/234
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CNBC
+http://appstv.us:25461/lozanos/tvmulti/235
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | CNN
+http://appstv.us:25461/lozanos/tvmulti/236
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Cooking Channel
+http://appstv.us:25461/lozanos/tvmulti/238
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Destination America
+http://appstv.us:25461/lozanos/tvmulti/241
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Discovery Channel
+http://appstv.us:25461/lozanos/tvmulti/242
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Discovery Family
+http://appstv.us:25461/lozanos/tvmulti/243
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Discovery Life
+http://appstv.us:25461/lozanos/tvmulti/244
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Discovery Science
+http://appstv.us:25461/lozanos/tvmulti/245
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Disney Channel
+http://appstv.us:25461/lozanos/tvmulti/246
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Disney Jr
+http://appstv.us:25461/lozanos/tvmulti/247
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Disney XD
+http://appstv.us:25461/lozanos/tvmulti/248
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | DIY
+http://appstv.us:25461/lozanos/tvmulti/249
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | DOCURAMA
+http://appstv.us:25461/lozanos/tvmulti/935
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | E!
+http://appstv.us:25461/lozanos/tvmulti/250
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | ELREY NETWORK
+http://appstv.us:25461/lozanos/tvmulti/419
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Entertainment
+http://appstv.us:25461/lozanos/tvmulti/768
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | EPIX
+http://appstv.us:25461/lozanos/tvmulti/252
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | EPIX 2
+http://appstv.us:25461/lozanos/tvmulti/253
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | EPIX Hits
+http://appstv.us:25461/lozanos/tvmulti/254
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | ESPN
+http://appstv.us:25461/lozanos/tvmulti/255
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | ESPN News
+http://appstv.us:25461/lozanos/tvmulti/257
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Fight Network
+http://appstv.us:25461/lozanos/tvmulti/259
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Food Network
+http://appstv.us:25461/lozanos/tvmulti/260
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX
+http://appstv.us:25461/lozanos/tvmulti/261
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX 11 Los Angeles
+http://appstv.us:25461/lozanos/tvmulti/262
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX 13 Tampa
+http://appstv.us:25461/lozanos/tvmulti/263
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX 26 Houston
+http://appstv.us:25461/lozanos/tvmulti/264
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX 29 Philadelphia
+http://appstv.us:25461/lozanos/tvmulti/265
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX 31 Denver
+http://appstv.us:25461/lozanos/tvmulti/266
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX 35 Orlando
+http://appstv.us:25461/lozanos/tvmulti/267
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX 5 Atlanta
+http://appstv.us:25461/lozanos/tvmulti/269
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX 5 New York
+http://appstv.us:25461/lozanos/tvmulti/270
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX 8 Cleveland
+http://appstv.us:25461/lozanos/tvmulti/272
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX Business Network
+http://appstv.us:25461/lozanos/tvmulti/273
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Fox Deportes
+http://appstv.us:25461/lozanos/tvmulti/274
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX News
+http://appstv.us:25461/lozanos/tvmulti/275
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX Soccer Plus
+http://appstv.us:25461/lozanos/tvmulti/276
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX Sports Arizona
+http://appstv.us:25461/lozanos/tvmulti/26
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Fox Sports Detroit
+http://appstv.us:25461/lozanos/tvmulti/490
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX SPORTS KANSAS CITY
+http://appstv.us:25461/lozanos/tvmulti/487
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Fox Sports Mid West
+http://appstv.us:25461/lozanos/tvmulti/491
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Fox Sports New Orleans
+http://appstv.us:25461/lozanos/tvmulti/492
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX Sports North
+http://appstv.us:25461/lozanos/tvmulti/29
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX Sports Ohio
+http://appstv.us:25461/lozanos/tvmulti/30
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Fox Sports Prime Ticket
+http://appstv.us:25461/lozanos/tvmulti/493
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX Sports San Diego
+http://appstv.us:25461/lozanos/tvmulti/31
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX Sports South
+http://appstv.us:25461/lozanos/tvmulti/32
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX Sports SouthEast
+http://appstv.us:25461/lozanos/tvmulti/33
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX Sports SouthWest
+http://appstv.us:25461/lozanos/tvmulti/34
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX Sports Sun
+http://appstv.us:25461/lozanos/tvmulti/35
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Fox Sports Tennessee
+http://appstv.us:25461/lozanos/tvmulti/495
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FOX Sports West
+http://appstv.us:25461/lozanos/tvmulti/36
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FreeForm
+http://appstv.us:25461/lozanos/tvmulti/277
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FS2
+http://appstv.us:25461/lozanos/tvmulti/109
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Fuse
+http://appstv.us:25461/lozanos/tvmulti/278
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FX
+http://appstv.us:25461/lozanos/tvmulti/280
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FXM
+http://appstv.us:25461/lozanos/tvmulti/281
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FXX
+http://appstv.us:25461/lozanos/tvmulti/282
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | FYI
+http://appstv.us:25461/lozanos/tvmulti/283
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Galavision
+http://appstv.us:25461/lozanos/tvmulti/284
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | GOL TV
+http://appstv.us:25461/lozanos/tvmulti/1172
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Golden Premier
+http://appstv.us:25461/lozanos/tvmulti/285
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Golf Channel
+http://appstv.us:25461/lozanos/tvmulti/40
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | GSN
+http://appstv.us:25461/lozanos/tvmulti/286
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Hallmark
+http://appstv.us:25461/lozanos/tvmulti/287
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Hallmark Drama
+http://appstv.us:25461/lozanos/tvmulti/288
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Hallmark Movies & Mysteries
+http://appstv.us:25461/lozanos/tvmulti/289
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | HBO
+http://appstv.us:25461/lozanos/tvmulti/290
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | HBO COMEDY
+http://appstv.us:25461/lozanos/tvmulti/422
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | HBO Family
+http://appstv.us:25461/lozanos/tvmulti/291
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | HBO Signature
+http://appstv.us:25461/lozanos/tvmulti/292
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | HBO Zone
+http://appstv.us:25461/lozanos/tvmulti/293
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | HGTV
+http://appstv.us:25461/lozanos/tvmulti/294
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | History Channel
+http://appstv.us:25461/lozanos/tvmulti/295
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | HLN
+http://appstv.us:25461/lozanos/tvmulti/296
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | HSN 1
+http://appstv.us:25461/lozanos/tvmulti/924
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | HSN 2
+http://appstv.us:25461/lozanos/tvmulti/923
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | IFC
+http://appstv.us:25461/lozanos/tvmulti/297
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | INSP
+http://appstv.us:25461/lozanos/tvmulti/1171
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Investigation Discovery
+http://appstv.us:25461/lozanos/tvmulti/299
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | JEWELRY TELEVISION
+http://appstv.us:25461/lozanos/tvmulti/922
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | LIFE TIME MOVIES
+http://appstv.us:25461/lozanos/tvmulti/584
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Lifetime
+http://appstv.us:25461/lozanos/tvmulti/300
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | LIFETIME MOVIE NETWORK
+http://appstv.us:25461/lozanos/tvmulti/1169
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | LMN
+http://appstv.us:25461/lozanos/tvmulti/301
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | LOGO (LGBT)
+http://appstv.us:25461/lozanos/tvmulti/1170
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Longhorn Network
+http://appstv.us:25461/lozanos/tvmulti/302
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | MLB Network
+http://appstv.us:25461/lozanos/tvmulti/303
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | MSG
+http://appstv.us:25461/lozanos/tvmulti/304
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | MSG 2
+http://appstv.us:25461/lozanos/tvmulti/305
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | MSNBC
+http://appstv.us:25461/lozanos/tvmulti/306
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | MTV
+http://appstv.us:25461/lozanos/tvmulti/307
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | MTV 2
+http://appstv.us:25461/lozanos/tvmulti/308
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | MTV CLASSICS
+http://appstv.us:25461/lozanos/tvmulti/1162
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | My9
+http://appstv.us:25461/lozanos/tvmulti/309
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Nat Geo
+http://appstv.us:25461/lozanos/tvmulti/310
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Nat Geo Wild
+http://appstv.us:25461/lozanos/tvmulti/311
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBA TV
+http://appstv.us:25461/lozanos/tvmulti/312
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC
+http://appstv.us:25461/lozanos/tvmulti/313
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC 10 Philadelphia
+http://appstv.us:25461/lozanos/tvmulti/314
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC 12
+http://appstv.us:25461/lozanos/tvmulti/1161
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC 2 Houston
+http://appstv.us:25461/lozanos/tvmulti/315
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC 2 Orlando
+http://appstv.us:25461/lozanos/tvmulti/316
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC 4 Los Angeles
+http://appstv.us:25461/lozanos/tvmulti/317
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC 4 New York
+http://appstv.us:25461/lozanos/tvmulti/318
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC 5 Chicago
+http://appstv.us:25461/lozanos/tvmulti/319
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC 5 Dallas
+http://appstv.us:25461/lozanos/tvmulti/320
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC 6 Miami
+http://appstv.us:25461/lozanos/tvmulti/321
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC 9 Denver
+http://appstv.us:25461/lozanos/tvmulti/322
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC Sports Bay Area
+http://appstv.us:25461/lozanos/tvmulti/323
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC Sports Boston
+http://appstv.us:25461/lozanos/tvmulti/324
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC Sports California
+http://appstv.us:25461/lozanos/tvmulti/325
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC Sports Chicago
+http://appstv.us:25461/lozanos/tvmulti/326
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC Sports Northwest
+http://appstv.us:25461/lozanos/tvmulti/327
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC Sports Philadelphia
+http://appstv.us:25461/lozanos/tvmulti/328
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC Sports Washington
+http://appstv.us:25461/lozanos/tvmulti/329
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBC Universo
+http://appstv.us:25461/lozanos/tvmulti/330
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NBCSN
+http://appstv.us:25461/lozanos/tvmulti/331
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NESN PLUS
+http://appstv.us:25461/lozanos/tvmulti/758
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NESN SPORT
+http://appstv.us:25461/lozanos/tvmulti/759
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NEW ORLEANS TV
+http://appstv.us:25461/lozanos/tvmulti/913
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NEWSMAX
+http://appstv.us:25461/lozanos/tvmulti/919
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NFL Network
+http://appstv.us:25461/lozanos/tvmulti/332
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NFL Red Zone
+http://appstv.us:25461/lozanos/tvmulti/333
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NHL Network
+http://appstv.us:25461/lozanos/tvmulti/334
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Nick
+http://appstv.us:25461/lozanos/tvmulti/335
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Nick Jr
+http://appstv.us:25461/lozanos/tvmulti/336
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | NICKELODEON
+http://appstv.us:25461/lozanos/tvmulti/1147
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Nicktoons
+http://appstv.us:25461/lozanos/tvmulti/337
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | OLYMPIC CHANNEL
+http://appstv.us:25461/lozanos/tvmulti/770
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Outdoor Channel
+http://appstv.us:25461/lozanos/tvmulti/338
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | OWN
+http://appstv.us:25461/lozanos/tvmulti/339
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Oxygen
+http://appstv.us:25461/lozanos/tvmulti/340
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Pac-12 Arizona
+http://appstv.us:25461/lozanos/tvmulti/1145
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Pac-12 Bay Area
+http://appstv.us:25461/lozanos/tvmulti/1144
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Pac-12 Los Angeles
+http://appstv.us:25461/lozanos/tvmulti/1143
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | PAC-12 Mountain
+http://appstv.us:25461/lozanos/tvmulti/341
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Pac-12 Network
+http://appstv.us:25461/lozanos/tvmulti/342
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | PAC-12 Oregon
+http://appstv.us:25461/lozanos/tvmulti/343
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Pac-12 Washington
+http://appstv.us:25461/lozanos/tvmulti/1142
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Paramount
+http://appstv.us:25461/lozanos/tvmulti/344
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | PBS Kids
+http://appstv.us:25461/lozanos/tvmulti/345
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | PoP
+http://appstv.us:25461/lozanos/tvmulti/346
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | RETRO MUSIC
+http://appstv.us:25461/lozanos/tvmulti/920
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | REVOLT
+http://appstv.us:25461/lozanos/tvmulti/441
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | RT NEWS
+http://appstv.us:25461/lozanos/tvmulti/583
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | SEC Network
+http://appstv.us:25461/lozanos/tvmulti/347
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Showtime
+http://appstv.us:25461/lozanos/tvmulti/348
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Showtime 2
+http://appstv.us:25461/lozanos/tvmulti/349
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | SHOWTIME BEYOND
+http://appstv.us:25461/lozanos/tvmulti/443
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Showtime Extreme
+http://appstv.us:25461/lozanos/tvmulti/350
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Smithsonian Channel
+http://appstv.us:25461/lozanos/tvmulti/352
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | SMITHSONIAN EAST
+http://appstv.us:25461/lozanos/tvmulti/447
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | SNY
+http://appstv.us:25461/lozanos/tvmulti/353
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | SONY MOVIE CHANNEL
+http://appstv.us:25461/lozanos/tvmulti/449
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Spectrum Sportsnet
+http://appstv.us:25461/lozanos/tvmulti/354
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | SPORTNET LA
+http://appstv.us:25461/lozanos/tvmulti/1115
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Starz
+http://appstv.us:25461/lozanos/tvmulti/356
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Starz Edge
+http://appstv.us:25461/lozanos/tvmulti/357
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Starz Encore Westerns
+http://appstv.us:25461/lozanos/tvmulti/358
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Starz in Black
+http://appstv.us:25461/lozanos/tvmulti/359
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | STARZ KIDS&FAMILY
+http://appstv.us:25461/lozanos/tvmulti/451
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | STARZENCORE CLASSIC
+http://appstv.us:25461/lozanos/tvmulti/453
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | STARZENCORE FAMILY
+http://appstv.us:25461/lozanos/tvmulti/454
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | STARZENCORE SUSPENSE
+http://appstv.us:25461/lozanos/tvmulti/455
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Sundance
+http://appstv.us:25461/lozanos/tvmulti/360
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | SyFy
+http://appstv.us:25461/lozanos/tvmulti/361
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | TBS
+http://appstv.us:25461/lozanos/tvmulti/362
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | TCM
+http://appstv.us:25461/lozanos/tvmulti/363
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Telemundo
+http://appstv.us:25461/lozanos/tvmulti/364
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Telemundo Chicago
+http://appstv.us:25461/lozanos/tvmulti/365
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | TELEMUNDO DALLAS
+http://appstv.us:25461/lozanos/tvmulti/702
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | TELEMUNDO LAS VEGAS
+http://appstv.us:25461/lozanos/tvmulti/703
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Telemundo Los Angeles
+http://appstv.us:25461/lozanos/tvmulti/366
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Telemundo Miami
+http://appstv.us:25461/lozanos/tvmulti/367
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | TELEMUNDO NEWYORK
+http://appstv.us:25461/lozanos/tvmulti/707
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | TELEMUNDO POHOENIX
+http://appstv.us:25461/lozanos/tvmulti/705
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | TELEMUNDO SAN DIEGO
+http://appstv.us:25461/lozanos/tvmulti/1317
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | TELEMUNDO SANANTONIO
+http://appstv.us:25461/lozanos/tvmulti/706
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Telemundo Texas
+http://appstv.us:25461/lozanos/tvmulti/368
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Tennis Channel
+http://appstv.us:25461/lozanos/tvmulti/369
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | THE BOAT SHOW
+http://appstv.us:25461/lozanos/tvmulti/915
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | The Weather Channel
+http://appstv.us:25461/lozanos/tvmulti/370
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | TLC
+http://appstv.us:25461/lozanos/tvmulti/371
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | TNT
+http://appstv.us:25461/lozanos/tvmulti/372
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Travel Channel
+http://appstv.us:25461/lozanos/tvmulti/373
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | TruTV
+http://appstv.us:25461/lozanos/tvmulti/374
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | TUDN
+http://appstv.us:25461/lozanos/tvmulti/375
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | TV Land
+http://appstv.us:25461/lozanos/tvmulti/376
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | TV One
+http://appstv.us:25461/lozanos/tvmulti/377
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | TVG
+http://appstv.us:25461/lozanos/tvmulti/378
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | UFC Fight Pass
+http://appstv.us:25461/lozanos/tvmulti/379
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | UNIMAS DALLAS
+http://appstv.us:25461/lozanos/tvmulti/1315
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | UNIMAS LOS ANGELES
+http://appstv.us:25461/lozanos/tvmulti/745
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | UNIMAS MIAMI
+http://appstv.us:25461/lozanos/tvmulti/741
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | UNIMAS NEW YORK
+http://appstv.us:25461/lozanos/tvmulti/742
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Unimas Philadelphia
+http://appstv.us:25461/lozanos/tvmulti/1316
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Universal Kids
+http://appstv.us:25461/lozanos/tvmulti/380
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | UNIVISION
+http://appstv.us:25461/lozanos/tvmulti/1124
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | UNIVISION CHICAGO
+http://appstv.us:25461/lozanos/tvmulti/697
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | UNIVISION DALLAS
+http://appstv.us:25461/lozanos/tvmulti/983
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | UNIVISION HOUSTON
+http://appstv.us:25461/lozanos/tvmulti/695
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | UNIVISION LOS ANGELES
+http://appstv.us:25461/lozanos/tvmulti/692
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | UNIVISION MIAMI
+http://appstv.us:25461/lozanos/tvmulti/693
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | UNIVISION NEWYORK
+http://appstv.us:25461/lozanos/tvmulti/696
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | UNIVISION SACRAMENTO
+http://appstv.us:25461/lozanos/tvmulti/1318
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | UNIVISION SAN FRANCISCO
+http://appstv.us:25461/lozanos/tvmulti/1123
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | USA Network
+http://appstv.us:25461/lozanos/tvmulti/381
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Velocity
+http://appstv.us:25461/lozanos/tvmulti/382
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | VH1
+http://appstv.us:25461/lozanos/tvmulti/383
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Viceland
+http://appstv.us:25461/lozanos/tvmulti/384
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | WE TV
+http://appstv.us:25461/lozanos/tvmulti/385
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Wolrd Fishing Network
+http://appstv.us:25461/lozanos/tvmulti/386
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Worcester - WCCA TV 13
+http://appstv.us:25461/lozanos/tvmulti/387
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | WWE Network
+http://appstv.us:25461/lozanos/tvmulti/388
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | YES Network
+http://appstv.us:25461/lozanos/tvmulti/389
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA |Â FS1
+http://appstv.us:25461/lozanos/tvmulti/108
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VENEZUELA | TELESUR
+http://appstv.us:25461/lozanos/tvmulti/1301
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", XXX  | Dorcel XXX
+http://appstv.us:25461/lozanos/tvmulti/862
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", XXX | ADULTOS 12
+http://appstv.us:25461/lozanos/tvmulti/874
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", XXX | ADULTOS 5
+http://appstv.us:25461/lozanos/tvmulti/867
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", XXX | Brazzers
+http://appstv.us:25461/lozanos/tvmulti/390
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", XXX | Dusk
+http://appstv.us:25461/lozanos/tvmulti/392
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", XXX | Hustler
+http://appstv.us:25461/lozanos/tvmulti/393
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", XXX | JASMIN TV
+http://appstv.us:25461/lozanos/tvmulti/881
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", XXX | Penthouse Quickies
+http://appstv.us:25461/lozanos/tvmulti/858
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", XXX | Redlight
+http://appstv.us:25461/lozanos/tvmulti/856
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", XXX | Venus
+http://appstv.us:25461/lozanos/tvmulti/395
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", XXX | VIVID Red
+http://appstv.us:25461/lozanos/tvmulti/396
